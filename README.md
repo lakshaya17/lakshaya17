@@ -9,7 +9,7 @@ Welcome to my GitHub — where machine learning meets orbital mechanics, and the
 ## 🧠 What I Do
 
 - 🛰 **Autonomous Systems & Spacecraft GNC**  
-  Developing uncertainty-aware path planning and docking algorithms using Koopman theory, optimization, and simulation-based control.
+  Developed uncertainty-aware path planning and docking algorithms using Koopman theory, optimization, and simulation-based control.
 
 - 🤖 **Applied Machine Learning & Generative AI**  
   Designing data-driven systems for forecasting, classification, and autonomous decision-making in aerospace, fintech, and education.
