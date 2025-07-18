@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Lakshay Arora
 
-### 🚀 Aerospace PhD | 🤖 AI/ML Engineer | ☁️ Cloud-Native Builder
+### 🚀 Aerospace PhD | 🤖 AI/ML Engineer | 🧠 Researcher | 🛠 Builder of Intelligent Systems
 
 Welcome to my GitHub — where machine learning meets orbital mechanics, and theory becomes toolkits. I'm currently pursuing a PhD in **Aerospace Engineering** at Carleton University, developing intelligent guidance and control strategies for spacecraft using a fusion of AI and control theory.
 
